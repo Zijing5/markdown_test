@@ -26,15 +26,27 @@ this is an unordered list
  
 code
 
-'''python
+<pre><code>def main():
+    print('hello world!')  
+</code></pre>
+
+```python
 def main():
-  print('hello world!')  
-'''
+    print('hello world!')  
+```
 
 ***image reference***
 **image reference**
 *image reference*
 
-![name of the image]()
+![name of the image](snowm1.jpg)
+![name of the image](https://github.com/hitdoggy/markdown_practice/blob/main/snowm1.jpg?raw=true)
+<img src="https://github.com/hitdoggy/markdown_practice/blob/main/snowm1.jpg?raw=true" width="50%">
+<div align='center'>
+    <img src="https://github.com/hitdoggy/markdown_practice/blob/main/snowm1.jpg?raw=true" width="20%">
+</div>
+
+>加链接
+[this is a link](https://blog.csdn.net/qq_42518956/article/details/116755381?spm=1001.2101.3001.6650.9&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-9-116755381-blog-103737799.235%5Ev38%5Epc_relevant_anti_t3_base&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-9-116755381-blog-103737799.235%5Ev38%5Epc_relevant_anti_t3_base&utm_relevant_index=14)
 
 

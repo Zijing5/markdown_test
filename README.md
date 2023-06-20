@@ -26,6 +26,15 @@ this is an unordered list
  
 code
 
-'''p
+'''python
 def main():
   print('hello world!')  
+'''
+
+***image reference***
+**image reference**
+*image reference*
+
+![name of the image]()
+
+
